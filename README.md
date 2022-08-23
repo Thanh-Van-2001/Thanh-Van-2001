@@ -22,7 +22,7 @@ As a Computer Engineering student, I have a passion for Software Engineering. I 
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/Thanh-Van-2001/Thanh-Van-2001/blob/main/resume.pdf)
 - :email: felicenguyen2001@gmail.com
 
 
