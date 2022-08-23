@@ -2,13 +2,9 @@
 
 As a Computer Engineering student, I have a passion for Software Engineering. I hope I will have a lot of opportunities to work and study the above majors to develop myself and contribute my brain to society.
 
-:mailbox: Reach me out!
-
- [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vthanh2001/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vanthanh.811/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:felicenguyen2001@gmail.com)
-
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
+- 🔭 I’m currently studying at UET - VNU
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
 - 📫 How to reach me: felicenguyen2001@gmail.com.
