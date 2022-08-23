@@ -4,7 +4,7 @@ As a Computer Engineering student, I have a passion for Software Engineering. I 
 
 :mailbox: Reach me out!
 
- [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:islempenywis@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vthanh2001/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/vanthanh.811/) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:felicenguyen2001@gmail.com)
 
 <!-- TODO: Add last video link -->
 
@@ -30,7 +30,7 @@ As a Computer Engineering student, I have a passion for Software Engineering. I 
 - :email: ipenywis@gmail.com
 
 
-#### Profile Visits 
+#### Credly Badges 
 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)](https://www.credly.com/users/thanh-nguyen.a58c82bb)
 
