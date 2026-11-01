@@ -22,6 +22,7 @@ Founder & CEO of [Talyxion](https://talyxion.com) · PhD student, Tsinghua Unive
 - **GECCO 2026**: Randomized uphill climbing for automated feature program synthesis in time-series forecasting
 - **IJCNN 2026 (IEEE WCCI)**: Grid-discretized multi-task transformer for joint tropical cyclone path and intensity forecasting
 - **ISCRAM 2026**: Beyond three tiers: subtype-aware stochastic optimization and resource misallocation measurement for earthquake emergency medical response (with Wai Kin Victor Chan)
+- **ICAIF 2026 Workshop (MFMB)**: CrashMargin: a multimodal framework for stock-level crash forecasting with dynamic margin risk management
 - **KSE 2025**: EvoPort: an evolutionary framework for portfolio optimization via randomized alpha discovery and ensemble-based allocation
 - **VNICT 2023**: Enhancing tropical cyclone path forecasting with an improved transformer network
 
